@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Card, CardContent, CardHeader, Container, Typography } from '@mui/material';
+import music from './music.json';
 
 function App() {
   return (
